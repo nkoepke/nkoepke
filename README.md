@@ -1,16 +1,14 @@
-### Hi there 👋
+### I'm Nils Köpke
+### What can I code?
+<p style="align: center;">
+<img src="html.svg" alt= “” width="64" height="64"> <img src="css.svg" alt= “” width="64" height="64"> <img src="js.svg" alt= “” width="64" height="64"> <img src="php.svg" alt= “” width="64" height="64"> <img src="rb.svg" alt= “” width="64" height="64">
+</p>
+and more! Visit my public repos and have a look!
 
-<!--
-**nkoepke/nkoepke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+- 🔭 I’m currently working on everything
+- 🌱 I’m currently learning nothing
+- 👯 I’m looking to collaborate on something
+- 🤔 I’m looking for help with everything
+- 💬 Ask me about everything
+- 📫 How to reach me: Homepage
