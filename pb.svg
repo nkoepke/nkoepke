@@ -1,0 +1,8 @@
+<svg viewBox="0 0 1000 100">
+        <rect x="0" y="0" width="1000" height="100" rx="25" fill="#e0e0e0"/>
+        <rect x="0" y="0" width="200" height="100" rx="25" fill="#E34F26" title="HTML"/>
+        <rect x="200" y="0" width="200" height="100" rx="25" fill="#1572B6" title="CSS"/>
+        <rect x="400" y="0" width="200" height="100" rx="25" fill="#F7DF1E" title="JavaScript"/>
+        <rect x="600" y="0" width="200" height="100" rx="25" fill="#CC342D" title="Ruby"/>
+        <rect x="800" y="0" width="200" height="100" rx="25" fill="#777BB4" title="PHP"/>
+    </svg>
