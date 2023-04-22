@@ -2,7 +2,7 @@
 ### What can I code?
 
 <p style="align: center;">
-  <img src="PLGS.gif" alt= “” width="64" height="64">
+  <img src="PLGS.gif" alt= “” width="128" height="128">
 </p>
 
 and more! Visit my public repos and have a look!
