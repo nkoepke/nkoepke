@@ -10,6 +10,7 @@ and more! Visit my public repos and have a look!
 
 
 ### About me
+- 👾 I am a pixel artist
 - 🔭 I’m currently working on everything
 - 🌱 I’m currently learning nothing
 - 👯 I’m looking to collaborate on something
