@@ -1,4 +1,7 @@
 ### I'm Nils Köpke
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=nkoepke&theme=whatsapp-dark&mode=weekly)](https://git.io/streak-stats)
+
 ### What can I code?
 
 <p style="align: center;">
