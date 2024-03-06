@@ -26,3 +26,11 @@ and more! Visit my public repos and have a look!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkoepke&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkoepke&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+### My Repos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nkoepke&repo=profile-image)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nkoepke&repo=ConsoleCharts)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nkoepke&repo=Identicon)](https://github.com/anuraghazra/github-readme-stats)
